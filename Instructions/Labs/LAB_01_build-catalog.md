@@ -27,7 +27,7 @@ After you complete this lab, you will be able to:
 
 #### Task 1: Create a Catalog
 
-1. Launch the Microsoft Entra admin center at `https://Entra.Microsoft.com`.
+1. Launch the Microsoft Entra admin center at `https://entra.microsoft.com`.
 
 1. In the menu on the left, navigate to **Identity governance** then **Entitlement management**.
 
